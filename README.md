@@ -40,7 +40,6 @@ activate the environment
 ```        
 conda activate simulation
 ```  
-run JL
 ```        
 jupyter lab
 ```
