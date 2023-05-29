@@ -12,7 +12,7 @@ the estimation of warm-up and number of runs are removed for simplicity
 for further details please see the markdown cells in the code file         
 
 ## main idea
-Three types of employees:
+Three are three types of employees:
 
 First line__________________              
 
