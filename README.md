@@ -36,8 +36,3 @@ run JL
 ```        
 jupyter lab
 ```
-
-
-
-
-streamlit - to be implemented
