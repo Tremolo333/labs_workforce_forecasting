@@ -9,7 +9,8 @@ there are three types (bands) of employees ranging in their productivity and com
 lab processes samples at a given rate                
 all parameters are made-up and serve an illustratory purpose only           
 the estimation of warm-up and number of runs are removed for simplicity   
-for further details please see the markdown cells in the code file         
+for further details please see the markdown cells in the code file        
+streamlit tbi       
 
 ## main idea
 Three are three types of employees:
