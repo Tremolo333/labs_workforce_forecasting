@@ -2,7 +2,8 @@
 
 this depo contains code relevant to labs wf project and serves as an exchange buffer        
 
-<b>how to run the code</b>          
+<b>how to run the code</b>   
+              
 1)download depo ZIP, unpack        
 2)in your local terminal or an Anaconda Prompt         
 ```        
