@@ -2,7 +2,6 @@
 
 this depo contains code relevant to labs wf project and serves as an exchange buffer        
 
-<b>how to run the code</b> 
 ## how to run the code
               
 1)download depo ZIP, unpack        
@@ -37,3 +36,10 @@ run JL
 ```        
 jupyter lab
 ```
+## how it works
+this is a simulation model of a lab built on the basis of simpy package         
+the arrivals generator mimics inflow of samples into the lab               
+there are three types (bands) of employees ranging in their productivity and conmpetencies to perform certain tasks          
+all parameters are made-up and serve an illustratory purpose only           
+the warm-up estimation and number of runs calculations are commented out for simplicity           
+
