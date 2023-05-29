@@ -12,8 +12,8 @@ for further details please see the markdown cells in the code file
 
 ## how to run the code
               
-1)download depo ZIP, unpack        
-2)setup the environment              
+<b>1)download depo ZIP, unpack</b>        
+<b>2)setup the environment</b>              
 in Anaconda Prompt or your local terminal       
 update conda
 ```
@@ -31,7 +31,7 @@ conda env create -f environment.yml
 ```
 conda update --all    
 ```    
-3)activate the env, run Jupyter Lab
+<b>3)activate the env, run Jupyter Lab</b>
 locate main folder 
 ```        
 cd C:\MAIN\labs_workforce_forecasting-main
