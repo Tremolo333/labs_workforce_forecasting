@@ -5,7 +5,7 @@ this depo contains code relevant to labs wf project and serves as an exchange bu
 <b>how to run the code</b>   
               
 1)download depo ZIP, unpack        
-2)in your local terminal or an Anaconda Prompt         
+2)in Anaconda Prompt or your local terminal            
 ```        
 #locate the binder folder      
 cd C:\MAIN\labs_workforce_forecasting-main\binder          
