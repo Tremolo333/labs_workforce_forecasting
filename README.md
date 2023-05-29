@@ -9,7 +9,30 @@ there are three types (bands) of employees ranging in their productivity and com
 lab processes samples at a given rate                
 all parameters are made-up and serve an illustratory purpose only           
 the estimation of warm-up and number of runs are removed for simplicity   
-for further details please see the markdown cells in the code file           
+for further details please see the markdown cells in the code file         
+
+## main idea
+Three types of employees:
+
+First line__________________              
+
+Band 3 (noobs):                   x5                               
+Process samples                 
+Avg time - 1 / sample             
+
+Band 2 (pros):                    x2                                
+Process samples                         
+Avg time - 0,5 / sample             
+
+Second line_______________              
+
+Band 1 (alpha):                    x1                    
+Verify results               
+Avg time - 0,05 / sample              
+Process complex sample                
+Avg time - 0,75 / sample              
+
+Chances of complex sample - 0,02         
 
 ## how to run the code
               
