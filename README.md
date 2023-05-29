@@ -5,7 +5,8 @@ this depo contains code relevant to labs wf project and serves as an exchange bu
 <b>how to run the code</b>   
               
 1)download depo ZIP, unpack        
-2)in Anaconda Prompt or your local terminal  
+2)setup the environment
+in Anaconda Prompt or your local terminal  
 update conda
 ```
 conda update conda
@@ -18,7 +19,10 @@ create the env (may take some time)
 ```
 conda env create -f environment.yml         
 ```     
-
+(optional)update all packages
+```
+conda update --all    
+```    
 
 
 
