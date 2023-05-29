@@ -30,7 +30,8 @@ Avg time - 0,05 / sample
 Process complex sample                
 Avg time - 0,75 / sample              
 
-Chances of complex sample - 0,02         
+Chances of complex sample - 0,02     
+Samples inter-arrival time - 0,1        
 
 ## how to run the code
               
