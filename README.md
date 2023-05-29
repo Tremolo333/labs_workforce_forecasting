@@ -15,7 +15,6 @@ for further details please see the markdown cells in the code file
 Three are three types of employees:
 
 First line__________________              
-
 Band 3 (noobs):                   x5                               
 Process samples                 
 Avg time - 1 / sample             
@@ -25,7 +24,6 @@ Process samples
 Avg time - 0,5 / sample             
 
 Second line_______________              
-
 Band 1 (alpha):                    x1                    
 Verify results               
 Avg time - 0,05 / sample              
