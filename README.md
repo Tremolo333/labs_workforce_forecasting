@@ -5,12 +5,14 @@ this depo contains code relevant to labs wf project and serves as an exchange bu
 <b>how to run the code</b>   
               
 1)download depo ZIP, unpack        
-2)in Anaconda Prompt or your local terminal            
+2)in Anaconda Prompt or your local terminal    
+#locate the binder folder 
 ```        
-#locate the binder folder      
-cd C:\MAIN\labs_workforce_forecasting-main\binder          
+cd C:\MAIN\labs_workforce_forecasting-main\binder   
+``` 
         
-#create the env       
+#create the env
+```
 conda env create -f environment.yml         
 ```     
 
