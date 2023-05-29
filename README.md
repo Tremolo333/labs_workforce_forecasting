@@ -23,7 +23,19 @@ conda env create -f environment.yml
 ```
 conda update --all    
 ```    
-
+3)activate the env, run Jupyter Lab
+locate main folder 
+```        
+cd C:\MAIN\labs_workforce_forecasting-main
+```  
+activate the environment
+```        
+conda activate simulation
+```  
+run JL
+```        
+jupyter lab
+```
 
 
 
