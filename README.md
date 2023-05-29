@@ -3,7 +3,7 @@
 this depo contains code relevant to labs wf project and serves as an exchange buffer        
 
 <b>how to run the code</b> 
-### how to run the code
+## how to run the code
               
 1)download depo ZIP, unpack        
 2)setup the environment              
