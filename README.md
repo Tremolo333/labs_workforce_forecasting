@@ -7,9 +7,9 @@ streamlit - to be implemented
 <b>how to run the code</b>          
 1)download depo ZIP, unpack        
 2)use the terminal or an Anaconda Prompt         
-'''        
+```        
 #locate the binder folder      
 cd C:\MAIN\labs_workforce_forecasting-main\binder          
 #create the env       
 conda env create -f environment.yml         
-'''
+```     
